@@ -80,7 +80,7 @@ This project is a **Stock Price Prediction App** deployed on **Streamlit**, usin
 ---
 
 ### **Contributors**  
-👤 **Sanju Raj** – *[Your LinkedIn/GitHub Profile]*  
+👤 **Sanju Raj** –  
 
 ---
 
